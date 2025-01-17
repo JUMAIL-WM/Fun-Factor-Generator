@@ -4,6 +4,7 @@ This repo hosts sample code for GenAI 101 with Pieces workshop about Fun Factor 
 🎉 Fun-Factor-Generator 🎲 | Add a touch of randomness and excitement to your projects! Generate fun elements effortlessly with this dynamic tool. 🚀
 
 🔥 Key Takeaways
+
 ✅ Understanding Generative AI:
 🔹 What is AI & Generative AI? A brief overview of AI’s evolution into Generative AI.
 🔹 The Power of LLMs: How Large Language Models (LLMs) shape AI advancements.
